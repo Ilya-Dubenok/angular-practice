@@ -1,0 +1,82 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "done": false,
+      "urgent": false,
+      "createdAt": "2025-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Buy birthday gift",
+      "done": false,
+      "urgent": true,
+      "createdAt": "2025-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Clean the kitchen",
+      "done": false,
+      "urgent": false,
+      "createdAt": "2025-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "title": "Clean the garage",
+      "done": false,
+      "urgent": false,
+      "createdAt": "2025-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "title": "Read Angular docs",
+      "done": false,
+      "urgent": false,
+      "createdAt": "2025-09-05T00:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "title": "Read RxJS docs",
+      "done": false,
+      "urgent": false,
+      "createdAt": "2025-09-06T00:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "title": "Write weekly report",
+      "done": false,
+      "urgent": true,
+      "createdAt": "2025-09-07T00:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "title": "Write unit tests",
+      "done": false,
+      "urgent": false,
+      "createdAt": "2025-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "title": "Schedule dentist appointment",
+      "done": false,
+      "urgent": false,
+      "createdAt": "2025-09-09T00:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "title": "Schedule team meeting",
+      "done": false,
+      "urgent": true,
+      "createdAt": "2025-09-10T00:00:00.000Z"
+    },
+    {
+      "title": "Test HTTP task",
+      "done": false,
+      "urgent": false,
+      "createdAt": "2026-09-18T17:13:49.226Z",
+      "id": "tN700EY7rnw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
